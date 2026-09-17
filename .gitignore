@@ -1,0 +1,10 @@
+node_modules
+dist
+.sessions
+*.log
+*.tsbuildinfo
+smoke.png
+test-results
+playwright-report
+*.local
+.DS_Store
